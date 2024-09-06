@@ -40,7 +40,4 @@ vim.o.mousemoveevent = true
 -- Add asterisks in block comments
 vim.g.autoformat = false
 vim.cmd("filetype plugin on")
-vim.g.calendar_google_api_key = 'AIzaSyBLUd-6l-9MTZeH0OhuuDvDT3ECfMCP5Vw'
-vim.g.calendar_google_client_id = '428980087236-6rov92pmst66pb6tju7n8rlqjh4jnr4p.apps.googleusercontent.com'
-vim.g.calendar_google_client_secret = 'AIzaSyBqiaL8WECkTcaillX9v4LXIEGc9Idrq5Q'
 vim.o.background="light"
